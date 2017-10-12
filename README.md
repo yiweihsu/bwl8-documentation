@@ -23,7 +23,7 @@
 - CSS - style sheets
 - files - text files, pdf, slides, words etc.
 - img - photos
-- verify - verify php files, used on ```https://www.tu-chemnitz.de/wirtschaft/bwl8/lehrangebote.php``` for encoding the page
+- verify - verify php files, used on https://www.tu-chemnitz.de/wirtschaft/bwl8/lehrangebote.php for encoding the page
 
 1. the most frequently used folders are ```files``` and ```img```
 
@@ -80,26 +80,26 @@ src means the path of image
 
 ### Tucal environment description
 
-1. establish a new page: ```https://www.tu-chemnitz.de/urz/www/rahmen.html#allg```
+1. establish a new page: https://www.tu-chemnitz.de/urz/www/rahmen.html#allg
 
-2. tucal varibale configuration: ```https://www.tu-chemnitz.de/urz/www/rahmen.html#var```
+2. tucal varibale configuration: https://www.tu-chemnitz.de/urz/www/rahmen.html#var
 
-3. establish multiple languages pages: ```https://www.tu-chemnitz.de/urz/www/rahmen.html#mehrsprachig```
+3. establish multiple languages pages: https://www.tu-chemnitz.de/urz/www/rahmen.html#mehrsprachig
 
 ## Reference 
 
-1. TUCAL official documentation: ```https://www.tu-chemnitz.de/urz/www/tucal.html```
+1. TUCAL official documentation: https://www.tu-chemnitz.de/urz/www/tucal.html
 
 2. Some common used tags on BWL8 website:
 
-- add a link with tag ```<a>```: ```https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a```
+- add a link with tag ```<a>```: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
 
-- add an image with tag ```<img>```: ```https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img```
+- add an image with tag ```<img>```: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
 
-- a break line tag ```<hr>```: ```https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr```
+- a break line tag ```<hr>```: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr
 
-- table tag ```<table>```: ```https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table```
+- table tag ```<table>```: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
 
-- gives text strong importance tag ```<strong>```: ```https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong```s
+- gives text strong importance tag ```<strong>```: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong
 
-3. it's good to know some knowledge of bootstrap, which is the core layout framework applied on tucal: ```http://getbootstrap.com/```
+3. it's good to know some knowledge of bootstrap, which is the core layout framework applied on tucal: http://getbootstrap.com/
