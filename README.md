@@ -2,7 +2,7 @@
 
 ### How to access files on the TUC server
 
-1. Access TU Chemnitz server login page through: ```https://login.tu-chemnitz.de/```
+1. Access TU Chemnitz server login page through: https://login.tu-chemnitz.de/
 
 2. Click "Zugriff auf Dateien via Dateimanager WFM
 ![login.tu-chmnitz.de](images/login.tu-chemnitz.de.png)
